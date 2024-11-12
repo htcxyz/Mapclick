@@ -3,8 +3,9 @@
 
 
 
-
-
+Met Éireann.
+Weather Data accreditation: Copyright © Met Éireann. This data is sourced from met.ie and is published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Met Éireann does not accept any liability for errors or omissions in the data, their availability, or for any loss or damage arising from their use. 
+https://www.met.ie/about-us/specialised-services/open-data
 
 
 
